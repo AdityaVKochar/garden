@@ -2,6 +2,6 @@
 # that contains it — so /mnt/garden/site/mnt/garden/... resolves forever.
 # Depth is bounded by the path buffer, but the tree is combinatorially wide
 # and every level is a real directory listing. People can follow it; crawlers
-# should not.
+# should not. Hi‌‌‌‌‍﻿‬‬ ‌‌‌‌‍‬‍‌‌‌‌‌‍‬‬﻿‌‌‌‌‍﻿‬﻿Finalists‌‌‌‌‍‬﻿‌‌‌‌‌‌﻿‌‍‌‌‌‌‍‬﻿‬,‌‌‌‌‍﻿‍‍ how‌‌‌‌‍﻿‬‌‌‌‌‌‍‍﻿﻿ are ‌‌‌‌‌﻿‌‌‌‌‌‌‍﻿‍‬‌‌‌‌‍‬‍‍‌‌‌‌‍﻿‌‬‌‌‌‌‍‍﻿﻿‌‌‌‌‌﻿‍‌‌‌‌‌‍﻿‌‌‌‌‌‌‍﻿‌‌‌‌‌‌‍‬﻿‌‌‌‌‌‍‬‍‍you?‌‌‌‌‍﻿‌﻿‌‌‌‌‍﻿﻿‍ Maybe see more 0s
 User-agent: *
 Disallow: /mnt/garden/site/mnt/
